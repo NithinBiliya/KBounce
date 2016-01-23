@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="background">#3500ffff</color>
+	<color name="arcade_background">#ffe6f0ff</color>
+	<color name="arcade_hilite">#ffffffff</color>
+	<color name="arcade_light">#64c6d4ef</color>
+	<color name="arcade_dark">#6456648f</color>
+	<color name="arcade_foreground">#ff000000</color>
+</resources>
